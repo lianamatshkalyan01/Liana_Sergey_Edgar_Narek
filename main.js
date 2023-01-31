@@ -4,4 +4,8 @@ function calc(x,z){
 
 const myval = calc(2,5)
 
+
 let sum = num => num * 2
+
+let a = 5
+
